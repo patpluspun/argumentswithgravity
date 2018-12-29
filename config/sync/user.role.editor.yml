@@ -1,0 +1,32 @@
+uuid: d023a4e9-7f20-411f-8b4c-2c7b61044672
+langcode: en
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: -8
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access content overview'
+  - 'access contextual links'
+  - 'access files overview'
+  - 'access site in maintenance mode'
+  - 'access toolbar'
+  - 'administer themes'
+  - 'administer users'
+  - 'change own username'
+  - 'create article content'
+  - 'create terms in tags'
+  - 'create url aliases'
+  - 'delete any article content'
+  - 'delete own article content'
+  - 'delete terms in tags'
+  - 'edit any article content'
+  - 'edit own article content'
+  - 'edit own comments'
+  - 'edit terms in tags'
+  - 'skip comment approval'
+  - 'use text format full_html'
+  - 'view own unpublished content'
+  - 'view the administration theme'
